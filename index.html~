@@ -3,7 +3,7 @@
 <!--[if IE 9]> <html lang="en" class="ie9"> <![endif]-->  
 <!--[if !IE]><!--> <html lang="en"> <!--<![endif]-->  
 <head>
-    <title>Santiago Lovón García</title>
+    <title>Responsive HTML5 Website Template for Developers | 3rd Wave Media</title>
     <!-- Meta -->
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -46,7 +46,7 @@
                     <li><a href="https://pe.linkedin.com/pub/santiago-ernesto-lovón-garcía/97/156/9b2"><i class="fa fa-linkedin"></i></a></li>
                                    
                     <li class="last-item">
-                        <a href="https://github.com/santiago3223"><i class="fa fa-github-alt"></i>
+                        <a href="#"><i class="fa fa-github-alt"></i>
                         <!--/<a href="#"><i class="fa fa-hacker-news"></i>-->
                         </a></li>                 
                 </ul> 
@@ -76,11 +76,11 @@
                         <div class="content">    
                                                
                             <div class="item featured text-center">
-                                <h3 class="title"><a href="https://play.google.com/store/apps/details?id=com.slg.blokos" target="_blank">Blokos</a></h3>
-                                <p class="summary"></p>
+                                <h3 class="title"><a href="http://themes.3rdwavemedia.com/website-templates/responsive-bootstrap-theme-for-products-velocity/" target="_blank">Blokos</a></h3>
+                                <p class="summary">Un juego</p>
                                 <div class="featured-image">
-                                    <a href="https://play.google.com/store/apps/details?id=com.slg.blokos" target="_blank">
-                                    <img class="img-responsive project-image" src="assets/images/blokos-banner.jpg" alt="project name" />
+                                    <a href="http://themes.3rdwavemedia.com/website-templates/responsive-bootstrap-theme-for-products-velocity/" target="_blank">
+                                    <img class="img-responsive project-image" src="assets/images/projects/project-featured.png" alt="project name" />
                                     </a>
                                     <div class="ribbon">
                                         <div class="text">New</div>
@@ -88,31 +88,31 @@
                                     </div>
                                     
                                 <div class="desc text-left">                                    
-                                    <p>Es un puzzle para Android sencillo y minimalista en el que debes mover un bloque de 2x1 a través de un laberinto hasta llegar a un marcador. Si logras hacerlo en el menor numero de movimientos posible obtendrás una estrella ¿Crees que puedas lograrlo?</p>
-                                    
+                                    <p>You can promote your main project here. Suspendisse in tellus dolor. Vivamus a tortor eu turpis pharetra consequat quis non metus. Aliquam aliquam, orci eu suscipit pellentesque, mauris dui tincidunt enim, eget iaculis ante dolor non turpis.</p>
+                                    <p>Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur. At vero eos et accusamus et iusto odio dignissimos ducimus.</p>
                                 </div><!--//desc-->         
-                                <a class="btn btn-cta-secondary" href="https://play.google.com/store/apps/details?id=com.slg.blokos" target="_blank"><i class="fa fa-thumbs-o-up"></i> Descargalo</a>                 
+                                <a class="btn btn-cta-secondary" href="http://themes.3rdwavemedia.com/website-templates/responsive-bootstrap-theme-for-products-velocity/" target="_blank"><i class="fa fa-thumbs-o-up"></i> Back my project</a>                 
                             </div><!--//item-->
                             <hr class="divider" />
                             <div class="item row">
-                                <a class="col-md-4 col-sm-4 col-xs-12" href="https://play.google.com/store/apps/details?id=com.Santiago.FlappySpace" target="_blank">
-                                <img class="img-responsive project-image" src="assets/images/flappyspace.png" alt="project name" />
+                                <a class="col-md-4 col-sm-4 col-xs-12" href="http://themes.3rdwavemedia.com/website-templates/responsive-bootstrap-theme-mobile-apps-atom/" target="_blank">
+                                <img class="img-responsive project-image" src="assets/images/projects/project-5.png" alt="project name" />
                                 </a>
                                 <div class="desc col-md-8 col-sm-8 col-xs-12">
-                                    <h3 class="title"><a href="https://play.google.com/store/apps/details?id=com.Santiago.FlappySpace" target="_blank">Flappy Space</a></h3>
-                                    <p>Es un juego para Android en el que manejas una nave a través del espacio y debes de esquivar los asteroides, la diferencia es que la nave no se mueve, sino que el espacio se mueve a su alrededor. </p>
-                                    <p><a class="more-link" href="https://play.google.com/store/apps/details?id=com.Santiago.FlappySpace" target="_blank"><i class="fa fa-external-link"></i> Descargar </a></p>
+                                    <h3 class="title"><a href="http://themes.3rdwavemedia.com/website-templates/responsive-bootstrap-theme-mobile-apps-atom/" target="_blank">Flappy Space</a></h3>
+                                    <p>You can put one of your secondary projects here. Suspendisse in tellus dolor. Vivamus a tortor eu turpis pharetra consequat quis non metus. Aliquam aliquam, orci eu suscipit pellentesque, mauris dui tincidunt enim, eget iaculis ante dolor non turpis.</p>
+                                    <p><a class="more-link" href="http://themes.3rdwavemedia.com/website-templates/responsive-bootstrap-theme-mobile-apps-atom/" target="_blank"><i class="fa fa-external-link"></i> Find out more</a></p>
                                 </div><!--//desc-->                          
                             </div><!--//item-->
                             
                             <div class="item row">
-                                <a class="col-md-4 col-sm-4 col-xs-12" href="https://play.google.com/store/apps/details?id=com.Santiago.TwoRandomColors" target="_blank">
-                                <img class="img-responsive project-image" src="assets/images/twocolors.png" alt="project name" />
+                                <a class="col-md-4 col-sm-4 col-xs-12" href="http://themes.3rdwavemedia.com/website-templates/responsive-bootstrap-theme-web-development-agencies-devstudio/" target="_blank">
+                                <img class="img-responsive project-image" src="assets/images/projects/project-4.png" alt="project name" />
                                 </a>
                                 <div class="desc col-md-8 col-sm-8 col-xs-12">
-                                    <h3 class="title"><a href="https://play.google.com/store/apps/details?id=com.Santiago.TwoRandomColors" target="_blank">Two Random Colors</a></h3>
-                                    <p>El objetivo es juntar 3 bolitas del mismo color para que estas se eliminen, pero cuando tocas una esfera esta puede cambiar a uno de los dos colores mostrados en la parte superior. </p>
-                                    <p><a class="more-link" href="https://play.google.com/store/apps/details?id=com.Santiago.TwoRandomColors" target="_blank"><i class="fa fa-external-link"></i> Descargar </a></p>
+                                    <h3 class="title"><a href="http://themes.3rdwavemedia.com/website-templates/responsive-bootstrap-theme-web-development-agencies-devstudio/" target="_blank">2 Colors</a></h3>
+                                    <p>You can put one of your secondary projects here. Suspendisse in tellus dolor. Vivamus a tortor eu turpis pharetra consequat quis non metus. Aliquam aliquam, orci eu suscipit pellentesque, mauris dui tincidunt enim, eget iaculis ante dolor non turpis.</p>
+                                    <p><a class="more-link" href="http://themes.3rdwavemedia.com/website-templates/responsive-bootstrap-theme-web-development-agencies-devstudio/" target="_blank"><i class="fa fa-external-link"></i> Find out more</a></p>
                                 </div><!--//desc-->                          
                             </div><!--//item-->
 
@@ -126,15 +126,19 @@
                         <h2 class="heading">Experiencia de Trabajo</h2>
                         <div class="content">
                             <div class="item">
-                                <h3 class="title">Desarrollador - <span class="place"><a href="#">Grupo XIE</a></span> <span class="year">(2014 - Actualidad)</span></h3>
-                                <p>Desarrollo de recorridos y manuales interactivos utilizando realidad virtual y realidad
-aumentada. Mayormente en el área de programación en Unity C#, pero también ocasionalmente haciendo modelado 3D en 3DMax. </p>
+                                <h3 class="title">Co-Founder & Lead Developer - <span class="place"><a href="#">Startup Hub</a></span> <span class="year">(2014 - Present)</span></h3>
+                                <p>Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. Donec vitae sapien ut libero venenatis faucibus. Nullam quis ante. Etiam sit amet orci eget eros faucibus tincidunt.</p>
                             </div><!--//item-->
                             <div class="item">
-                                <h3 class="title">Desarrollador -  <span class="place"><a href="#">Lobo sistemas S.A</a></span> <span class="year">(2014)</span></h3>
-                                <p>Me dedique a la programación de aplicaciones empresariales usando Java EE, iReport y PostgreSQL.</p>
+                                <h3 class="title">Software Engineer - <span class="place"><a href="#">Google</a></span> <span class="year">(2013 - 2014)</span></h3>
+                                <p>Vivamus a tortor eu turpis pharetra consequat quis non metus. Aliquam aliquam, orci eu suscipit pellentesque, mauris dui tincidunt enim. Sed fringilla mauris sit amet nibh. Donec sodales sagittis magna.</p>
                             </div><!--//item-->
-
+                            
+                            <div class="item">
+                                <h3 class="title">Software Engineer - <span class="place"><a href="#">eBay</a></span> <span class="year">(2012 - 2013)</span></h3>
+                                <p>Maecenas tempus, tellus eget condimentum rhoncus, sem quam semper libero, sit amet adipiscing sem neque sed ipsum.</p>
+                            </div><!--//item-->
+                            
                         </div><!--//content-->  
                     </div><!--//section-inner-->                 
                 </section><!--//section-->
